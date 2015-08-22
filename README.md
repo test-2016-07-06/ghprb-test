@@ -1,2 +1,2 @@
-ghprb-tests
-===========
+ghprb-test
+==========
