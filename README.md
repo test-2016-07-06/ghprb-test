@@ -1,2 +1,3 @@
 # ghprb-test
-Updated
+It fixes #2. 
+In fact, it does not.
