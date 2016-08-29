@@ -1,2 +1,2 @@
 # ghprb-test
-6
+7
