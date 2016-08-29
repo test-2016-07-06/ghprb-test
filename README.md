@@ -1,2 +1,2 @@
 # ghprb-test
-5
+6
