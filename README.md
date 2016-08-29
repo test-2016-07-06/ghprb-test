@@ -1,2 +1,2 @@
 # ghprb-test
-asdf
+1
